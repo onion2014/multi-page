@@ -3,7 +3,7 @@
 > A Vue.js project
 
 
-## 具体流程
+# 具体流程
 ``` bash
 1、vue-cli初始化一个项目，并集成webpack工具
 vue init webpack demo
